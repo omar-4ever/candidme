@@ -1,5 +1,4 @@
 {
       "version": 2,
-      "buildCommand": "echo 'skipping build with vercel.json'"
       "rewrites": [{ "source": "/(.*)", "destination": "/" }]
     }
